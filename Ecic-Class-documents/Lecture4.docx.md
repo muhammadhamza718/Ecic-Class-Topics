@@ -205,7 +205,7 @@ Print:
 
 ---
 
-### **Q13:Write a program to check whether a person is eligible to vote (age ≥ 18).**
+### **Q13:Write a program to check whether a person is eligible to vote (age ≥ 18)**
 
 ---
 
