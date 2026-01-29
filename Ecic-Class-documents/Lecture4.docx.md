@@ -6,7 +6,7 @@
 
 ### **Definition**
 
-An **f-string** is used to insert variables or expressions directly inside a string using {}.
+An **f-string** is used to insert variables or expressions directly inside a string using {}
 
 ### **Syntax**
 
