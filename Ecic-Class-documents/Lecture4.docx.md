@@ -136,7 +136,7 @@ print(text\[::-1\])
 
 ### **Q1:**
 
-Create two variables name and age.  
+Create two variable name and age.  
 Use an **f-string** to print:  
 My name is \_\_\_ and I am \_\_\_ years old.  
 ---
