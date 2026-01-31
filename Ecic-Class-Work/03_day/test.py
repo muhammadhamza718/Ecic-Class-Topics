@@ -1,9 +1,9 @@
-# Marks=int(input("Enter your numbers= "))
+Marks=int(input("Enter your numbers= "))
 
-# if Marks <= 40:
-#     print("Your grade is F")
-# elif Marks <= 50:
-#     print("Your grade is E")
+if Marks <= 40:
+    print("Your grade is F")
+elif Marks <= 50:
+    print("Your grade is E")
 elif Marks <= 60:
     print("Your grade is C")
 elif Marks <= 70:
