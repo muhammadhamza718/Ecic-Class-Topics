@@ -1,12 +1,12 @@
-# price = 250 
-# print(f"The total price is Rs.{price}")
+price = 250 
+print(f"The total price is Rs.{price}")
 
 city = "karachi"
 print(f"Welcome to {city}")
 
-# x = 4
-# y = 6
-# print(f"Product of {x + y}")
+x = 4
+y = 6
+print(f"Product of {x + y}")
 
 # age = 18
 # if age >= 18:
