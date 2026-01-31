@@ -12,8 +12,8 @@
 #     print("Your grade is A")
 # elif Marks <= 100:
 #     print("Your grade is A+")
-# else:
-#     print("unknown number")
+else:
+    print("unknown number")
 
 
 text= "python programming is great"
