@@ -27,8 +27,8 @@
 # print(fourth_word)
 
 
-# number = "03051234567"
-# network_code = number[:4]
+number = "03051234567"
+network_code = number[:4]
 last_four = number[-4:]
 print(f"Network code {network_code}")
 print(f"Last 4 digits {last_four}")
