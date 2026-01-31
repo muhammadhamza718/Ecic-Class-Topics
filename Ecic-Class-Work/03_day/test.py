@@ -16,7 +16,7 @@
 #     print("unknown number")
 
 
-# text= "python programming is great"
+text= "python programming is great"
 first_word = text[:6]
 second_word = text[7:18]
 third_word = text[19:21]
