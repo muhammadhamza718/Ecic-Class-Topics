@@ -23,8 +23,8 @@
 # fourth_word = text[222:]
 # print(first_word)
 # print(second_word)
-# print(third_word)
-# print(fourth_word)
+print(third_word)
+print(fourth_word)
 
 
 number = "03051234567"
