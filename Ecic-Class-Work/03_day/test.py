@@ -19,8 +19,8 @@
 # text= "python programming is great"
 # first_word = text[:6]
 # second_word = text[7:18]
-# third_word = text[19:21]
-# fourth_word = text[222:]
+third_word = text[19:21]
+fourth_word = text[222:]
 print(first_word)
 print(second_word)
 print(third_word)
