@@ -8,15 +8,15 @@ x = 4
 y = 6
 print(f"Product of {x + y}")
 
-# age = 18
-# if age >= 18:
-#     print("Eligible to vote")
+age = 18
+if age >= 18:
+    print("Eligible to vote")
 
-# a = int(input("Enter the value= "))
-# if a%2 <= 0:
-#     print("The number is Even")
-# else:
-#     print("The number is Odd")
+a = int(input("Enter the value= "))
+if a%2 <= 0:
+    print("The number is Even")
+else:
+    print("The number is Odd")
 
 
 # day = int(input("Enter the number: "))
