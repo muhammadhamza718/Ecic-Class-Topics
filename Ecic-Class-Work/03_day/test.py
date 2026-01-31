@@ -21,8 +21,8 @@
 # second_word = text[7:18]
 # third_word = text[19:21]
 # fourth_word = text[222:]
-# print(first_word)
-# print(second_word)
+print(first_word)
+print(second_word)
 print(third_word)
 print(fourth_word)
 
