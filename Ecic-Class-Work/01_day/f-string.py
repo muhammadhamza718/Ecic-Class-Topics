@@ -55,11 +55,11 @@ elif Marks <= 100:
 else:
     print("unknown number")
 
-# number=int(input("Enter your number: "))
-# if number%2:
-#     print("the number is Even")
-# else:
-#     print("the number is odd")
+number=int(input("Enter your number: "))
+if number%2:
+    print("the number is Even")
+else:
+    print("the number is odd")
 
 units=int(input("Enter your unit= "))
 if units <= 100:
