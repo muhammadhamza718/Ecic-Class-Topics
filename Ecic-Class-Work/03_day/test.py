@@ -8,8 +8,8 @@
 #     print("Your grade is C")
 # elif Marks <= 70:
 #     print("Your grade is B")
-# elif Marks <= 80:
-#     print("Your grade is A")
+elif Marks <= 80:
+    print("Your grade is A")
 elif Marks <= 100:
     print("Your grade is A+")
 else:
