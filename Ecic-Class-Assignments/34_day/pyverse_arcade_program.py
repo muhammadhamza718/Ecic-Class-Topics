@@ -1,9 +1,20 @@
+import shutil
+import pyfiglet
+
+width = shutil.get_terminal_size().columns
+
 text1 = "Institute: Benazir Bhutto Shaheed Human Resource Research & Development Board"
 text2 = "Course: Python Programming with AI"
 
 print("\033[1;37;44m" + text1.center(100) + "\033[0m")
 print("\033[1;30;47m" + text2.center(100) + "\033[0m")
 
+print()
+print()
+
+title = pyfiglet.figlet_format("PyVerse Arcade", font="slant")
+for line in title.splitlines():
+    print("\033[1;35m" + line.center(width) + "\033[0m")
 
 def rollercoaster():
     print("=== ROLLERCOASTER BOOKING SYSTEM ===")
